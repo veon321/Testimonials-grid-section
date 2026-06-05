@@ -21,4 +21,3 @@ This is a clean, responsive, and modern solution to the Testimonials grid sectio
 - **Robust Component Encapsulation:** Isolates each testimonial card inside independent `<article>` wrappers, preventing document-tree bleeding and ensuring style encapsulation.
 - **Dynamic Profile Typography Mapping:** Leverages layered opacity scaling on secondary text blocks (`.status`, `.description`) to guarantee deep typographical contrast and adherence to precise readability standards.
 - **Fluid Viewport Adaptation:** Implements a single, non-destructive media query breakpoint that dynamically collapses the complex 4-column matrix into a single-column layout for optimal readability on mobile screens.
-- **Decorative Asset Masking:** Integrates vector design patterns (`bg-pattern-quotation.svg`) via layered CSS background properties, utilizing precise positioning constraints to maintain alignment without cluttering the HTML DOM tree.
